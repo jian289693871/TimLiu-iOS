@@ -46,7 +46,6 @@ A curated list of iOS objective-C ecosystem.
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [转场动画@](#转场动画)
 - [多媒体@](#多媒体)
-  - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
@@ -112,7 +111,6 @@ A curated list of iOS objective-C ecosystem.
   - [轮播@](#轮播)
   - [选择器@](#选择器)
   - [购物车@](#购物车)
-  - [引导@](#引导)
   - [按钮@](#按钮)
   - [类3D@](#类3D)
   - [其他UI@](#其他UI)
@@ -198,9 +196,9 @@ A curated list of iOS objective-C ecosystem.
 * [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2018.
 
 #### 完整App@
-
+* [CoolPaper](https://github.com/CoderWeiLee/CoolPaper) - 一款基于Swift5写的壁纸应用
 * [GitHubRank](http://githubrank.com/) - GitHub活跃用户排名(便于学习，请勿攀比).
-* [expo](https://github.com/expo/expo) - Expo iOS/Android Client https://docs.expo.io/.
+* [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
 * [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉.  
@@ -297,6 +295,9 @@ A curated list of iOS objective-C ecosystem.
 * [MACProject](https://github.com/azheng51714/MACProject) - 这是一个用 Objective-C 写的 iOS 轻量级框架，旨在快速构建 iOS App.
 * [iOSProject](https://github.com/NJHu/iOSProject) - 一些oc项目集合.
 * [WYBasisKit](https://github.com/Jacke-xu/WYBasisKit) - "WYBasisKit" is a toolkit aimed at greatly improving efficiency.
+* [nextcloud](https://github.com/nextcloud/ios) - Nextcloud iOS app.
+* [eEducation](https://github.com/AgoraIO-Usecase/eEducation) - e-education solutions(Agora Reference Design).
+* [MobileProject](https://github.com/wujunyang/MobileProject) - 一个基于 MVC 的项目框架，并集成一些常用的功能.
 
 #### React@
 
@@ -306,6 +307,7 @@ A curated list of iOS objective-C ecosystem.
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
 * [Objective-Chain](https://github.com/Tricertops/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
+* [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionView的代码，已加入cell自适应高度，降低代码耦合，提高开发效率。
 * [react-native-config](https://github.com/luggit/react-native-config) - 用于响应本机应用程序的配置变量,模块将配置变量公开到你的javascript代码中，同时支持iOS和 Android.
 * [react-native-syan-image-picker](https://github.com/syanbo/react-native-syan-image-picker) - React-Native 多图片选择 支持裁剪 压缩.
@@ -322,6 +324,10 @@ A curated list of iOS objective-C ecosystem.
 * [TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter) - A starter template for TypeScript and React Native with a detailed README describing how to use the two together.
 * [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
+* [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native.
+* [react-native-permissions](https://github.com/react-native-community/react-native-permissions) - An unified permissions API for React Native on iOS and Android.
+* [react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
+* [react-native-navigation](https://github.com/wix/react-native-navigation) - 是Navigator的加强版，不仅有Navigator的全部功能，另外还支持底部导航类似于与iOS中的UITabBarController，此外它也支持侧拉效果方式的导航类似于Android中的抽屉效果。
 
 #### framework@
 
@@ -563,6 +569,7 @@ A curated list of iOS objective-C ecosystem.
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 管理Keychain接入的小助手.
 * [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架.
 * [RuntimeDemo](https://github.com/CoderJackyHuang/RuntimeDemo) - runtime自动归档/解档,[源码分析](http://www.henishuo.com/runtime-archive-unarchive-automaticly/).
+* [PINCache](https://github.com/pinterest/PINCache) - 适用于 iOS，tvOS 和 OS X 的快速、无死锁的并行对象缓存框架.
 
 #### 序列化@
 
@@ -663,8 +670,6 @@ A curated list of iOS objective-C ecosystem.
 * [WXSTransition](https://github.com/alanwangmodify/WXSTransition) - 转场动画集合.
 
 #### 多媒体@
-#### 流媒体@
-
 #### 音频@
 
 * [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - 唱吧出品音视频在线播放缓存框架.
@@ -880,6 +885,7 @@ A curated list of iOS objective-C ecosystem.
 * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览.
 * [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) - 图片浏览.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR.
+* [QBImagePicker](https://github.com/questbeat/QBImagePicker) - A clone of UIImagePickerController with multiple selection support.
 
 #### 图像缓存@
 
@@ -920,6 +926,7 @@ A curated list of iOS objective-C ecosystem.
 #### 截屏@
 
 * [PPSnapshotKit](https://github.com/VernonVan/PPSnapshotKit) - 在包括 UIWebView 和 WKWebView 的网页中进行长截图.
+* [SDScreenshotCapture](https://github.com/shinydevelopment/SDScreenshotCapture) - 一个工具类，用于捕获不包括 iOS 状态栏的应用程序窗口的屏幕截图.
 
 #### 安全@
 
@@ -1060,7 +1067,6 @@ A curated list of iOS objective-C ecosystem.
 * [JXPageListView](https://github.com/pujiaxin33/JXPageListView) - 高仿闲鱼、转转、京东、中央天气预报等主流APP列表底部分页滚动视图.
 * [LLNoDataView](https://github.com/LvJianfeng/LLNoDataView) - 超简单的空数据提示通用View支持UIScrollView、UITableView、UICollectionView、UIWebView.
 * [XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) - 可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格.
-* [WMPageController](https://github.com/wangmchn/WMPageController) - 一个方便的 pageContrller 的控件，里面还包括滚动视图。
 * [PSTCollectionView](https://github.com/steipete/PSTCollectionView) - PSTCollectionView.
 * [LLRiseTabBar-iOS](https://github.com/lianleven/LLRiseTabBar-iOS) - 直接使用系统的特性实现的tabbar，比较简单.
 * [MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete) - 非常有趣的Material Design动画，动画删除表里面的单元格.
@@ -1103,7 +1109,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 图表@
 
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
+* [Charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
 * [JBChartView](https://github.com/Jawbone/JBChartView) - 基于iOS的用于线路和条形图的图表库.
 * [KLine](https://github.com/AbuIOSDeveloper/KLine) - (CAShapelayer + UIBezierPath)绘制K线支撑横竖屏切换、刷新、长按、缩放、masonry适配，完美支持金融产品 非常的流畅，占用内存少，使用矢量进行填充K线，持续更新.
@@ -1114,6 +1120,8 @@ A curated list of iOS objective-C ecosystem.
 * [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
 * [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
+* [iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) - 将百度的 ECharts (Echarts2) 工具封装成对应的 iOS 和 Mac 的控件。
+* [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - 一个适用于 iOS 的折线图表。
 
 #### 下拉刷新@
 
@@ -1148,6 +1156,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 日历三方库@
 
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个完全可定制的 iOS 日历库，兼容 Objective-C 和 Swift。
 * [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
 
@@ -1267,6 +1276,10 @@ A curated list of iOS objective-C ecosystem.
 * [CoreNewFeatureVC](https://github.com/CharlinFeng/CoreNewFeatureVC) - 版本新特性（引导页），1.封装并简化了版本新特性启动视图！2.添加了版本的本地缓存功能，3.集成简单，使用方便，没有耦合度，4.支持block回调（版本新特性、导航页、引导页).
 * [MZGuidePages](https://github.com/MachelleZhang/MZGuidePages) - 自己写的通用导航页，可以直接引入工程使用，请参考案例（版本新特性、导航页、引导页）.
 * [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - ABCIntroView是一个易于使用的入门类，让你到达主屏幕之前介绍你的应用程序（版本新特性、导航页、引导页）.
+* [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
+* [Onboard](https://github.com/mamaral/Onboard) - 一个iOS框架，轻松创建一个美丽和吸引人的使用引导，只需行代码，非常赞👍👍，同时支持Swift.
+* [JMHoledView](https://github.com/leverdeterre/JMHoledView) - 一个不错的使用引导库，使用View实现.
+* [TNTutorialManager](https://github.com/Tawa/TNTutorialManager) - 内嵌的App使用引导库.
 
 #### Switch@
 
@@ -1330,13 +1343,15 @@ A curated list of iOS objective-C ecosystem.
 * [VTMagic](https://github.com/tianzhuo112/VTMagic) - VTMagic is a page container library for iOS.
 * [NinaPagerView](https://github.com/RamWire/NinaPagerView) - 一行代码搞定顶部菜单栏。类似网易新闻、今日头条、虎扑看球等app做的一个顶部菜单栏，每栏中有独立的控制器，可自己定制.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) [⚠️已失去维护]
+* [WMPageController](https://github.com/wangmchn/WMPageController) - 一个方便的 pageContrller 的控件，里面还包括滚动视图。
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) - 分页滚动，多个分页的pageController效果.
 * [ZJScrollPageView](https://github.com/jasnig/ZJScrollPageView) - 网易新闻, 腾讯视频, 头条 等首页的滑块视图联动的效果OC版的简单方便的集成.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - 一个比较好用的第三方分段控制器.
-* [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - A twitter like navigation bar, page viewer.
+* [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - 类似 Twitter 风格的导航栏页面控制器。
 * [SPPage](https://github.com/xichen744/SPPage) - 高性能PageController.
 * [SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) - A page view controller component that reproduces Mobile Safari's tab switching behavior.
 * [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) - 重构版--特斯拉组件、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图.
+* [XBScrollPageController](https://github.com/changjianfeishui/XBScrollPageController) - iOS 分页控制器，只需传入标题数组和控制器类名数组即可。
 
 #### 轮播@
 
@@ -1372,17 +1387,14 @@ A curated list of iOS objective-C ecosystem.
 * [shopCarDemobyCX](http://code.cocoachina.com/view/129430) - shopCarDemobyCX一个简易购物车效果，最重要的是可以分单结算，分单个商品结算，代理是主要技术.
 * [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱).
 * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算.
-
-#### 引导@
-
-* [Onboard](https://github.com/mamaral/Onboard) - 一个iOS框架，轻松创建一个美丽和吸引人的使用引导，只需行代码，非常赞👍👍，同时支持Swift.
-* [JMHoledView](https://github.com/leverdeterre/JMHoledView) - 一个不错的使用引导库，使用View实现.
-* [TNTutorialManager](https://github.com/Tawa/TNTutorialManager) - 内嵌的App使用引导库.
+* [shopCartDemo](https://github.com/wangluhui/shopCartDemo) - 购物车Demo.
+* [ShoppingCartDemo](https://github.com/Andy0570/ShoppingCartDemo) - iOS 中的购物车页面示例。
 
 #### 按钮@
 
 * [TORoundedButton](https://github.com/TimOliver/TORoundedButton) - A high-performance button control with rounded corners for iOS.
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton) - Customizable App Store style download button.
+* [PPNumberButton](https://github.com/jkpang/PPNumberButton) - 高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单.
 
 #### 类3D@
 
@@ -1401,7 +1413,6 @@ A curated list of iOS objective-C ecosystem.
 * [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) - iOS 唯一完美的波浪进度加载指示器，[实现说明](http://zyden.vicp.cc/waveloadingindicator/).
 * [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) - 三维多选按钮.
 * [ASProgressPopUpView](https://github.com/alskipp/ASProgressPopUpView) - 弹出的进度条显示进度.
-* [TwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer)  - 多个Tableview，左右滑动.
 * [CircularProgressControl](https://github.com/carantes/CircularProgressControl) - Circular Progress Control using CAShapeLayer ，环形进度控制条.
 * [SDProgressView](https://github.com/gsdios/SDProgressView) - 简便美观的进度指示器，此系列共有六种样式的进度指示器.
 * [LoopProgressDemo](https://github.com/saitjr/STLoopProgressView) - 环形渐变进度条，[环形渐变进度条实现](http://www.superqq.com/blog/2015/08/12/realization-circular-gradient-progress/).
@@ -1444,12 +1455,10 @@ A curated list of iOS objective-C ecosystem.
 #### 其他UI@
 
 * [drawablebubble](https://github.com/KittenYang/KYCuteView) - QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/).
-* [PPNumberButton](https://github.com/jkpang/PPNumberButton) - 高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单.
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) - 一个非常好用的点赞粒子发射器.
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择.
 * [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) - iOS Checkboxes inspired by Google's Paper Material Design.
 * [GMenuController](https://github.com/GIKICoder/GMenuController) - 具有和UIMenuController一致的UI 与交互行为. menuItem可指定target. 可定制化UI.对外API与原生UIMenuController 一致.
-* [shopCartDemo](https://github.com/wangluhui/shopCartDemo) - 购物车Demo.
 
 #### 工具@
 #### 综合@
@@ -1582,6 +1591,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 游戏@
 
+* [Urho3D](https://github.com/urho3d/Urho3D) - a free lightweight, cross-platform 2D and 3D game engine implemented in C++.
 * [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc) - Cocos2d for iOS and OS X, built using Objective-C.
 
 #### 小样@
@@ -1602,10 +1612,12 @@ A curated list of iOS objective-C ecosystem.
 #### 地图@
 
 * [YJLocationConverter](https://github.com/stackhou/YJLocationConverter) - 中国国测局地理坐标（GCJ-02）<火星坐标>、世界标准地理坐标(WGS-84) 、百度地理坐标（BD-09)坐标系转换工具类.
+* [LocationManager](https://github.com/intuit/LocationManager) - 对苹果 Core Location 框架的封装，轻松获取 iOS 设备上的位置信息和方向信息。支持 Objective-C 和 Swift。
 
 #### 通知@
 
 * [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
+* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs).
 * [TSMessages](https://github.com/KrauseFx/TSMessages) - 易于使用和定制的消息/通知,用于 iOS版Tweetbot.
 * [terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
@@ -1711,6 +1723,7 @@ A curated list of iOS objective-C ecosystem.
 * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
 * [WHC_KeyboardManager](https://github.com/netyouli/WHC_KeyboardManager)iOS平台轻量级的键盘管理器，使用简单功能强大，键盘再也不会挡住输入控件
 * [Inkpad](https://github.com/TheLittleBoy/inkpad-fork) - iOS高级画板，原inkpad项目修复bug的版本。
+* [coobjc](https://github.com/alibaba/coobjc) - Alibaba 开源库，这个库为 Objective-C 和 Swift 提供了协程功能。coobjc 支持 await、generator 和 actor model，接口参考了 C# 、Javascript 和 Kotlin 中的很多设计。还提供了 cokit 库为 Foundation 和 UIKit 中的部分 API 提供了协程化支持，包括 NSFileManager , JSON , NSData , UIImage 等。coobjc 也提供了元组的支持。
 
 #### 消息相关@
 #### 消息推送客户端@
@@ -1734,8 +1747,8 @@ A curated list of iOS objective-C ecosystem.
 #### 设计模式@
 
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) 非常👍 Design Patterns implemented in Swift
-* [KVOController] (https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
-* [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
+* [KVOController](https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
+* [DecouplingKit](https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
 * [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 
 #### 三方@
@@ -2072,12 +2085,12 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄露检测工具.
 * [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
 * [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 * [DoraemonKit](https://github.com/didi/DoraemonKit) - 一个不错的可视化调试、各种测试工具.
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit.
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库.FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些.
@@ -2541,6 +2554,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### 其他@
 
 * [BaiduYunEnhancer](https://github.com/maoger/BaiduYunEnhancer) - 破解 百度云/百度网盘 的下载限制.
+* [UTM](https://github.com/utmapp/UTM) - 让你的iphone可以运行windows、Android等的虚拟机.
+* [KernBypass-Public](https://github.com/akusio/KernBypass-Public) - 内核级越狱屏蔽检测，简单而实用级,屏蔽吃鸡封号,游戏封号
 
 #### Runtime@
 
